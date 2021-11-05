@@ -19,7 +19,10 @@
     "noUnusedLocals": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+  },
+  "rules": {
+    "no-console": false
   },
   "exclude": [
     "node_modules",
